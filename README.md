@@ -2,7 +2,7 @@
 - 👀 I’m interested in PC&PC's hardware DIY&
 - 🌱 I’m currently learning ML&AI_LLama&AWS
 - 💞️ I’m looking to collaborate on ML&math in AI LLama
-- 📫 How to reach me https://x.com/KejuLiu1130keju or https://steamcommunity.com/profiles/76561199141802131/ or https://www.kaggle.com/kejuliu
+- 📫 How to reach me https://x.com/KejuLiu1130keju or https://steamcommunity.com/profiles/76561199141802131/ or https://www.kaggle.com/kejuliu or https://github.com/KejuLiu/KejuLiu
 - 😄 Pronouns: none/idk really/
 - ⚡ Fun fact: idk
 
